@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="OSMANTHUSS.COM" resolutions="1x" timestamp="1494334071918">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="OSMANTHUSS.COM" resolutions="1x" timestamp="1494334589356">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="9361517" ref="index"/>
-    <file name="nomq_index.css" crc="45797949" ref="index"/>
+    <file name="index.css" crc="4165326166" ref="index"/>
+    <file name="nomq_index.css" crc="4238046131" ref="index"/>
     <file name="book-1.css" crc="319603658" ref="book-1"/>
   </folder>
   <folder name="fonts">
@@ -88,11 +88,11 @@
     <file name="u2763_states-r.png" crc="149019006" ref="book-1"/>
     <file name="tumblr_o3a6q1yqlv1sy2cjqo1_500.jpg" crc="46637101" ref="book-1"/>
     <file name="tumblr_mjeds2iuyv1qghwxto1_540.jpg" crc="176435899" ref="book-1"/>
-    <file name="u2782_states.png" crc="3975737240" ref="index"/>
-    <file name="u2782_states-r.png" crc="4131902517" ref="index"/>
-    <file name="u2782_states2.png" crc="3975737240" ref="index"/>
-    <file name="u2782_states-r2.png" crc="4131902517" ref="index"/>
+    <file name="u2782_states.png" crc="343069571" ref="index"/>
+    <file name="u2782_states-r.png" crc="138106933" ref="index"/>
+    <file name="u2782_states2.png" crc="343069571" ref="index"/>
+    <file name="u2782_states-r2.png" crc="138106933" ref="index"/>
   </folder>
-  <file name="index.html" crc="4292171359" seo="true" mt="1494334061846" redirect="true"/>
+  <file name="index.html" crc="3892397349" seo="true" mt="1494334573039" redirect="true"/>
   <file name="book-1.html" crc="296213265" seo="true" mt="1494333891232" redirect="true"/>
 </manifest>
