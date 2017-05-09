@@ -7,13 +7,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://OSMANTHUSS.COM/images/tumblr_nenjgqrsnh1qclxaho1_540.jpg</loc>
+    <loc>http://OSMANTHUSS.COM/book-1.html</loc>
     <lastmod>2017-05-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://OSMANTHUSS.COM/images/12191169_1196172670399629_3027634775343931075_o.jpg</loc>
+    <loc>http://OSMANTHUSS.COM/images/tumblr_nctkfe3ljy1r8tri8o1_500.jpg</loc>
     <lastmod>2017-05-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -37,13 +37,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://OSMANTHUSS.COM/images/tumblr_nctkfe3ljy1r8tri8o1_500.jpg</loc>
+    <loc>http://OSMANTHUSS.COM/images/tumblr_nenjgqrsnh1qclxaho1_540.jpg</loc>
     <lastmod>2017-05-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://OSMANTHUSS.COM/images/tumblr_numdn9vdxb1u67clyo1_540279x188.jpg</loc>
+    <loc>http://OSMANTHUSS.COM/images/12191169_1196172670399629_3027634775343931075_o.jpg</loc>
     <lastmod>2017-05-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -74,6 +74,12 @@
   </url>
   <url>
     <loc>http://OSMANTHUSS.COM/images/12191169_1196172670399629_3027634775343931075_o281x188.jpg</loc>
+    <lastmod>2017-05-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://OSMANTHUSS.COM/images/tumblr_numdn9vdxb1u67clyo1_540279x188.jpg</loc>
     <lastmod>2017-05-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

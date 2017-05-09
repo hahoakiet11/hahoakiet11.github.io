@@ -1,8 +1,9 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="OSMANTHUSS.COM" resolutions="1x" timestamp="1494329490946">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="OSMANTHUSS.COM" resolutions="1x" timestamp="1494334071918">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="3851484173" ref="index"/>
-    <file name="nomq_index.css" crc="3807899453" ref="index"/>
+    <file name="index.css" crc="9361517" ref="index"/>
+    <file name="nomq_index.css" crc="45797949" ref="index"/>
+    <file name="book-1.css" crc="319603658" ref="book-1"/>
   </folder>
   <folder name="fonts">
     <file name="fontawesome-webfont.woff" crc="462672289"/>
@@ -10,20 +11,20 @@
     <file name="fontawesome-webfont.svg" crc="3771442179"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="163421577" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="36584860" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:book-1"/>
+    <file name="museutils.js" crc="163421577" ref="index:book-1"/>
+    <file name="whatinput.js" crc="86476730" ref="index:book-1"/>
+    <file name="museconfig.js" crc="36584860" ref="index:book-1"/>
     <file name="webpro.js" crc="3848665353" ref="index"/>
     <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
     <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
     <file name="touchswipe.js" crc="404375771" ref="index"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index"/>
-    <file name="require.js" crc="244322403" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:book-1"/>
+    <file name="require.js" crc="244322403" ref="index:book-1"/>
     <file name="jquery.musemenu.js" crc="146495465" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="4065090679" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:book-1"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:book-1"/>
     <file name="form_check.php" crc="158155501" ref="index"/>
     <file name="form_throttle.php" crc="3992970984" ref="index"/>
     <file name="form_process.php" crc="4078697226" ref="index"/>
@@ -32,7 +33,7 @@
   </folder>
   <folder name="images">
     <file name="tumblr_nctkfe3ljy1r8tri8o1_500.jpg" crc="358610419" seo="true" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:book-1"/>
     <file name="tumblr_n06mgjwrhm1s5huhzo1_500-crop-u216.jpg" crc="3775144442" ref="index"/>
     <file name="tumblr_nenjgqrsnh1qclxaho1_540.jpg" crc="4057400215" seo="true" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
@@ -74,6 +75,24 @@
     <file name="u836-32.png" crc="3967492652" ref="index"/>
     <file name="u1836-32.png" crc="420233272" ref="index"/>
     <file name="u951-42.png" crc="287623682" ref="index"/>
+    <file name="u2756-4.png" crc="133577526" ref="book-1"/>
+    <file name="home_profile_portfolio1s.jpg" crc="3950391573" ref="book-1"/>
+    <file name="tumblr_m5m9oli17i1qjsahto1_540.jpg" crc="519238639" ref="book-1"/>
+    <file name="home_profile_portfolio3s.jpg" crc="530687104" ref="book-1"/>
+    <file name="tumblr_n8zm7fb4mu1rqpct2o1_500.jpg" crc="3858206455" ref="book-1"/>
+    <file name="home_profile_portfolio2s.jpg" crc="420850329" ref="book-1"/>
+    <file name="tumblr_mpw6ll15pj1qdpv23o1_540.jpg" crc="4010250269" ref="book-1"/>
+    <file name="tumblr_mpo8wqdkdj1rt7onuo1_540.jpg" crc="219405479" ref="book-1"/>
+    <file name="tumblr_mqpy5bjxru1rdpx3bo1_500.jpg" crc="4154280603" ref="book-1"/>
+    <file name="u2763_states.png" crc="4013564895" ref="book-1"/>
+    <file name="u2763_states-r.png" crc="149019006" ref="book-1"/>
+    <file name="tumblr_o3a6q1yqlv1sy2cjqo1_500.jpg" crc="46637101" ref="book-1"/>
+    <file name="tumblr_mjeds2iuyv1qghwxto1_540.jpg" crc="176435899" ref="book-1"/>
+    <file name="u2782_states.png" crc="3975737240" ref="index"/>
+    <file name="u2782_states-r.png" crc="4131902517" ref="index"/>
+    <file name="u2782_states2.png" crc="3975737240" ref="index"/>
+    <file name="u2782_states-r2.png" crc="4131902517" ref="index"/>
   </folder>
-  <file name="index.html" crc="57057582" seo="true" mt="1494327280335" redirect="true"/>
+  <file name="index.html" crc="4292171359" seo="true" mt="1494334061846" redirect="true"/>
+  <file name="book-1.html" crc="296213265" seo="true" mt="1494333891232" redirect="true"/>
 </manifest>
